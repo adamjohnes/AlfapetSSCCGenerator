@@ -1,6 +1,5 @@
 import customtkinter
 from tkinter import *
-from tkinter import filedialog
 import random
 import os
 import sys
